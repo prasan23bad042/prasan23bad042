@@ -72,22 +72,70 @@
 
 ---
 
-## 📌 Featured Projects  
+## 🌟 Featured Projects
 
-### **AI Exam Preparation with moderator**
-- **Tech Stack:** React,Node  
-- Developed Personalized Study Plans and used for students exam preparation.  
-- Real-time Feedback and Performance Analytics.
+<div align="center">
 
-### **Smart Tuition Centre Web Platform**
-- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
-- Built a responsive multi-page tuition management website with role-based access and student progress tracking.  
+<table>
+<tr>
+<td width="50%">
 
-### **AI Sign Language Translator**
-- **Tech Stack:** Python, OpenCV, CNN, Flask  
-- Developed a system that translates sign language gestures into text and speech using deep learning.  
-- Applied data augmentation and real-time video analytics for accuracy.
+### AI Exam Preparation with Moderator
+![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-React%2C%20Node-6366F1?style=flat-square)
 
+Developed a personalized AI-based study platform for exam preparation with real-time feedback and performance analytics.
+
+**Features:**  
+- Personalized study plans  
+- Real-time performance tracking  
+- AI-driven recommendations  
+
+[View Project →](https://github.com/prasan23bad042/Xprep)
+
+</td>
+<td width="50%">
+
+### Esevai Online Services Web Platform
+![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-HTML%2C%20CSS%2C%20Bootstrap%2C%20JavaScript-6366F1?style=flat-square)
+
+Built a responsive multi-page tuition management website with role-based access and student progress tracking.
+
+**Features:**  
+- Role-based user access  
+- Student progress tracking  
+- Responsive and interactive UI  
+
+[View Project →](https://github.com/prasan23bad042/esevai_vs)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤟 AI Sign Language Translator
+![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-Python%2C%20OpenCV%2C%20CNN%2C%20Flask-6366F1?style=flat-square)
+
+Developed a system that translates sign language gestures into text and speech using deep learning and real-time video analytics.
+
+**Features:**  
+- Real-time gesture recognition  
+- Converts gestures to text & speech  
+- Data augmentation for higher accuracy  
+
+[View Project →](https://github.com/prasan23bad042/sign_language_translator)
+
+</td>
+<td width="50%">
+
+<!-- You can add another project here or leave empty -->
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
