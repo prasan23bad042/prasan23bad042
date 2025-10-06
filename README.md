@@ -89,20 +89,11 @@
 
 ---
 
-## 🧮 GitHub Analytics  
+## 📈 GitHub Stats
+![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasan23bad042&show_icons=true&theme=tokyonight)
 
-<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasan23bad042&layout=compact&theme=tokyonight)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasannaProjects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannaProjects&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannaProjects&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
