@@ -11,8 +11,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=prasannaProjects&color=0F52BA&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/prasannaProjects?style=for-the-badge&logo=github&color=0F52BA&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=prasan23bad042&color=0F52BA&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/prasan23bad042?style=for-the-badge&logo=github&color=0F52BA&labelColor=000000)
 ![GitHub User's stars](https://img.shields.io/github/stars/prasannaProjects?style=for-the-badge&logo=github&color=0F52BA&labelColor=000000)
 
 </div>
