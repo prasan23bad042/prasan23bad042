@@ -1,4 +1,4 @@
- Hi there, I'm Prasanna Venkataraman S 👋
+ Hi there, I'm Prasanna Venkataraman S 
 
 Aspiring Software Developer | AI & ML Enthusiast | Problem Solver
 
