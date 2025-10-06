@@ -19,26 +19,28 @@
 
 <div align="center">
 
- **AI & Full-Stack Developer** passionate about designing **intelligent systems** and **interactive user experiences**.  
- Skilled in **React, Node.js, Python, and Machine Learning**, and constantly exploring **real-time data analytics** and **Aerospace AI applications**.  
+ **AI & Full-Stack Developer** passionate about designing **intelligent systems** and **interactive user experiences**. 
+ Skilled in **React, Node.js, Python, and Machine Learning**, and constantly exploring **real-time data analytics** and **Aerospace AI applications**. 
 
-</div>  
+</div> 
 
 ---
 
 ## 🎓 Education
 
-**[KIT-Kalaignarkarunanidhi Institute of Technology]** | [Kannampalayam,Coimbatore,Tamilnadu-641402]  
+**[KIT-Kalaignarkarunanidhi Institute of Technology]** | [Kannampalayam,Coimbatore,Tamilnadu-641402] 
 **B.Tech in Artificial Intelligence & Data Science** | [8.70 CGPA ] | [2023-2027]
 
-**[Infant Jesus Convent Matriculation Higher Secondary School]** | [Coimbatore,Tamilnadu-641020]  
+**[Infant Jesus Convent Matriculation Higher Secondary School]** | [Coimbatore,Tamilnadu-641020] 
 **Higher Secondary (Maths,Computer Science)** | [89%] | [2023]
-
 ---
+## 🔧 Technical Skills
 
-## 🔧 Technical Skills  
+<table width="100%">
+<tr>
+<td valign="top">
 
-### 💻 Programming Languages  
+### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -46,7 +48,7 @@
   <img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-### 🎨 Frontend Development  
+### 🎨 Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -54,7 +56,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Database  
+### ⚙️ Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
@@ -62,7 +64,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### ☁️ Tools & Platforms  
+### ☁️ Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
@@ -70,8 +72,14 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
+</td>
+<td valign="top" width="35%" align="center">
+  <img src="[https://codolio.com/profile/prasan23bad042/card](https://github.com/prasan23bad042/prasan23bad042/blob/main/profileCard.png?raw=true)" alt="Codolio Profile Card"/>
+</td>
+</tr>
+</table>
 
+---
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -86,10 +94,9 @@
 
 Developed a personalized AI-based study platform for exam preparation with real-time feedback and performance analytics.
 
-**Features:**  
-- Personalized study plans  
-- Real-time performance tracking  
-- AI-driven recommendations  
+**Features:** - Personalized study plans 
+- Real-time performance tracking 
+- AI-driven recommendations 
 
 [View Project →](https://github.com/prasan23bad042/Xprep)
 
@@ -102,10 +109,9 @@ Developed a personalized AI-based study platform for exam preparation with real-
 
 Built a responsive multi-page tuition management website with role-based access and student progress tracking.
 
-**Features:**  
-- Role-based user access  
-- Student progress tracking  
-- Responsive and interactive UI  
+**Features:** - Role-based user access 
+- Student progress tracking 
+- Responsive and interactive UI 
 
 [View Project →](https://github.com/prasan23bad042/esevai_vs)
 
@@ -120,17 +126,14 @@ Built a responsive multi-page tuition management website with role-based access 
 
 Developed a system that translates sign language gestures into text and speech using deep learning and real-time video analytics.
 
-**Features:**  
-- Real-time gesture recognition  
-- Converts gestures to text & speech  
-- Data augmentation for higher accuracy  
+**Features:** - Real-time gesture recognition 
+- Converts gestures to text & speech 
+- Data augmentation for higher accuracy 
 
 [View Project →](https://github.com/prasan23bad042/sign_language_translator)
 
 </td>
 <td width="50%">
-
-<!-- You can add another project here or leave empty -->
 
 </td>
 </tr>
@@ -147,32 +150,31 @@ Developed a system that translates sign language gestures into text and speech u
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements 
 
-- Participated in **Intenational conclave Hackathon in Hyderabad** 
-- Built multiple AI and Web-based academic projects  
+- Participated in **Intenational conclave Hackathon in Hyderabad** - Built multiple AI and Web-based academic projects 
 - Continuously learning and experimenting with **AI, ML, and full-stack technologies**
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications 
 
-- **Coursera** – AI for Everyone  
-- **NPTEL** – Soft Skills Development  
-- **Infosys Springboard** – Java Programming  
-
----
-
-## 🌱 Currently Learning  
-
-- Advanced Computer Vision and Deep Learning  
-- Cloud Deployment & DevOps Concepts  
-- React Optimization and State Management  
-- Research on Micro-Doppler and AI in Aerospace  
+- **Coursera** – AI for Everyone 
+- **NPTEL** – Soft Skills Development 
+- **Infosys Springboard** – Java Programming 
 
 ---
 
-## 📫 Connect with Me  
+## 🌱 Currently Learning 
+
+- Advanced Computer Vision and Deep Learning 
+- Cloud Deployment & DevOps Concepts 
+- React Optimization and State Management 
+- Research on Micro-Doppler and AI in Aerospace 
+
+---
+
+## 📫 Connect with Me 
 
 <p align="center">
   <a href="https://github.com/prasan23bad042"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
