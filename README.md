@@ -74,18 +74,20 @@
 
 ## 📌 Featured Projects  
 
-### 🧠 **AI Sign Language Translator**
+### **AI Exam Preparation with moderator**
+- **Tech Stack:** React,Node  
+- Developed Personalized Study Plans and used for students exam preparation.  
+- Real-time Feedback and Performance Analytics.
+
+### **Smart Tuition Centre Web Platform**
+- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
+- Built a responsive multi-page tuition management website with role-based access and student progress tracking.  
+
+### **AI Sign Language Translator**
 - **Tech Stack:** Python, OpenCV, CNN, Flask  
 - Developed a system that translates sign language gestures into text and speech using deep learning.  
 - Applied data augmentation and real-time video analytics for accuracy.
 
-### 🎯 **Smart Tuition Centre Web Platform**
-- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
-- Built a responsive multi-page tuition management website with role-based access and student progress tracking.  
-
-### ✅ **To-Do Dashboard with Dark Mode**
-- **Tech Stack:** HTML, CSS, JavaScript  
-- Created a complete task management dashboard with sidebar, filters, dark mode, and localStorage persistence.
 
 ---
 
