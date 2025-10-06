@@ -74,7 +74,7 @@
 
 </td>
 <td valign="top" width="35%" align="center">
-  <img src="[https://codolio.com/profile/prasan23bad042/card](https://github.com/prasan23bad042/prasan23bad042/blob/main/profileCard.png?raw=true)" alt="Codolio Profile Card"/>
+  <img  src="https://github.com/user-attachments/assets/6a2bfd19-a69f-457a-abb0-5e753d12e0a3" alt="Codolio Profile Card"/>
 </td>
 </tr>
 </table>
