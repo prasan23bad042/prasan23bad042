@@ -1,8 +1,6 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0F52BA&text=Prasanna%20Venkataraman%20S&reversal=false&textBg=false&fontAlign=50&fontAlignY=38&animation=scaleIn&fontSize=60" alt="Header" />
+![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/Prasanna-Venkataraman-S)
 
 </div>
 
