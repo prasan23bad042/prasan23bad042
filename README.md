@@ -110,18 +110,17 @@
 
 ## 🏆 Achievements  
 
-- 🥇 Participated in **Hackathons** (mention if selected/finalist)
-- 💡 Built multiple AI and Web-based academic projects  
-- 🚀 Continuously learning and experimenting with **AI, ML, and full-stack technologies**
+- Participated in **Intenational conclave Hackathon in Hyderabad** 
+- Built multiple AI and Web-based academic projects  
+- Continuously learning and experimenting with **AI, ML, and full-stack technologies**
 
 ---
 
 ## 📜 Certifications  
 
 - **Coursera** – AI for Everyone  
-- **NPTEL** – Python for Data Science  
+- **NPTEL** – Soft Skills Development  
 - **Infosys Springboard** – Java Programming  
-*(Add or modify as needed)*
 
 ---
 
@@ -137,18 +136,9 @@
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://github.com/prasannaProjects"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/prasan23bad042"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:"><img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prasanna-venkataraman-s-aa4563292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
-
-<div align="center">
-
-### 💡 Fun Fact  
-*"Great code is like art — clean, expressive, and timeless."*  
-
-**⭐ From [Prasanna R](https://github.com/prasannaProjects)**  
-
-</div>
