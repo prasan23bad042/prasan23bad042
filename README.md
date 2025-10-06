@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F52BA&height=200&section=header&text=Prasanna%20R&fontSize=55&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Passionate%20about%20Innovation&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&stroke=0F52BA&strokeWidth=2" alt="Header" />
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F52BA&center=true&vCenter=true&width=650&lines=💡+AI+%26+Data+Science+Enthusiast;🚀+Full-Stack+Web+Developer;🧠+Exploring+Deep+Learning+%26+Computer+Vision;⚡+Turning+Ideas+into+Impactful+Projects" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0F52BA&text=Prasanna%20Venkataraman%20S&reversal=false&textBg=false&fontAlign=50&fontAlignY=38&animation=scaleIn&fontSize=60" alt="Header" />
+
+</div>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F52BA&center=true&vCenter=true&width=650&lines=+AI+%26+Data+Science+Enthusiast;+Full-Stack+Web+Developer;+Exploring+Deep+Learning+%26+Computer+Vision;+Turning+Ideas+into+Impactful+Projects" alt="Typing SVG" />
 
 </div>
 
@@ -16,8 +21,8 @@
 
 <div align="center">
 
-💡 **AI & Full-Stack Developer** passionate about designing **intelligent systems** and **interactive user experiences**.  
-🚀 Skilled in **React, Node.js, Python, and Machine Learning**, and constantly exploring **real-time data analytics** and **Aerospace AI applications**.  
+ **AI & Full-Stack Developer** passionate about designing **intelligent systems** and **interactive user experiences**.  
+ Skilled in **React, Node.js, Python, and Machine Learning**, and constantly exploring **real-time data analytics** and **Aerospace AI applications**.  
 
 </div>  
 
@@ -25,22 +30,11 @@
 
 ## 🎓 Education
 
-**[Your College Name]** | [City, Country]  
-**B.Tech in Artificial Intelligence & Data Science** | [CGPA or % if you wish] | [Year Range]
+**[KIT-Kalaignarkarunanidhi Institute of Technology]** | [Kannampalayam,Coimbatore,Tamilnadu-641402]  
+**B.Tech in Artificial Intelligence & Data Science** | [8.70 CGPA ] | [2023-2027]
 
-**[Your School Name]** | [City, Country]  
-**Senior Secondary (Computer Science)** | [Percentage] | [Year]
-
----
-
-## 💼 Experience
-
-**[Position Title]** | [Company Name] | [Month Year]  
-*Location: [City, Country]*
-
-- Developed and maintained responsive web applications using React and Express.js  
-- Built reusable UI components and implemented REST APIs  
-- Worked in Agile environments using Git, CI/CD, and version control  
+**[Infant Jesus Convent Matriculation Higher Secondary School]** | [Coimbatore,Tamilnadu-641020]  
+**Higher Secondary (Maths,Computer Science)** | [89%] | [2023]
 
 ---
 
