@@ -2,118 +2,146 @@
 
 ![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/Prasanna-Venkataraman-S)
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0F52BA&center=true&vCenter=true&random=false&width=800&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+Web+Developer;Aerospace+AI+Researcher;Always+Learning+%26+Building)](https://git.io/typing-svg)
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/prasan23bad042">
+    <img src="https://komarev.com/ghpvc/?username=prasan23bad042&label=Profile+Views&color=0F52BA&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/prasan23bad042?tab=followers">
+    <img src="https://img.shields.io/github/followers/prasan23bad042?label=Followers&style=for-the-badge&color=0066CC&logo=github&logoColor=white" alt="Followers"/>
+  </a>
+  <a href="https://github.com/prasannaProjects?tab=repositories">
+    <img src="https://img.shields.io/github/stars/prasannaProjects?label=Total+Stars&style=for-the-badge&color=0052A3&logo=starship&logoColor=white" alt="Stars"/>
+  </a>
+</p>
+
 </div>
 
-<div align="center">
+---
 
+## 👨‍💻 Developer Profile Overview
 
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=prasan23bad042&color=0F52BA&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/prasan23bad042?style=for-the-badge&logo=github&color=0F52BA&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/prasannaProjects?style=for-the-badge&logo=github&color=0F52BA&labelColor=000000)
-
-</div>
-
-<div align="center">
-
- **AI & Full-Stack Developer** passionate about designing **intelligent systems** and **interactive user experiences**. 
- Skilled in **React, Node.js, Python, and Machine Learning**, and constantly exploring **real-time data analytics** and **Aerospace AI applications**. 
-
-</div> 
+```python
+class PrasannaVenkataramanS:
+    def __init__(self):
+        self.name = "Prasanna Venkataraman S"
+        self.role = "AI/ML Engineer & Full-Stack Developer"
+        self.location = "India 🇮🇳"
+        self.education = "B.Tech in AI & Data Science"
+        self.cgpa = 8.70
+        self.passion = ["AI Systems", "Web Development", "Aerospace Applications"]
+        
+    def current_focus(self):
+        return [
+            "🔬 Computer Vision & Deep Learning",
+            "🌐 Building scalable full-stack applications",
+            "✈️ Micro-Doppler & Aerospace AI Research",
+            "☁️ Cloud Deployment & DevOps"
+        ]
+    
+    def get_daily_routine(self):
+        return "Code 💻 → Build 🚀 → Learn 📚 → Repeat 🔄"
+```
 
 ---
 
 ## 🎓 Education
 
-**[KIT-Kalaignarkarunanidhi Institute of Technology]** | [Kannampalayam,Coimbatore,Tamilnadu-641402] 
-**B.Tech in Artificial Intelligence & Data Science** | [8.70 CGPA ] | [2023-2027]
+**KIT-Kalaignarkarunanidhi Institute of Technology** | Coimbatore, Tamil Nadu  
+**B.Tech in Artificial Intelligence & Data Science** | CGPA: 8.70 | 2023-2027
 
-**[Infant Jesus Convent Matriculation Higher Secondary School]** | [Coimbatore,Tamilnadu-641020] 
-**Higher Secondary (Maths,Computer Science)** | [89%] | [2023]
----
-## 🔧 Technical Skills
-
-<table width="100%">
-<tr>
-<td valign="top">
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### ☁️ Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-</td>
-<td valign="top" width="35%" align="center">
-  <img  src="https://github.com/user-attachments/assets/6a2bfd19-a69f-457a-abb0-5e753d12e0a3" alt="Codolio Profile Card"/>
-</td>
-</tr>
-</table>
+**Infant Jesus Convent Matriculation Higher Secondary School** | Coimbatore  
+**Higher Secondary (Maths, Computer Science)** | 89% | 2023
 
 ---
-## 🌟 Featured Projects
 
-<div align="center">
+## 🔧 Tech Arsenal
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Tools & Platforms</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+---
+
+## 🌟 Showcasing My Best Work
 
 <table>
 <tr>
 <td width="50%">
 
-### AI Exam Preparation with Moderator
-![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-React%2C%20Node-6366F1?style=flat-square)
+### 🎓 AI Exam Preparation with Moderator
+[![](https://github-readme-stats.vercel.app/api/pin/?username=prasan23bad042&repo=Xprep&theme=react&bg_color=1F222E&title_color=0F52BA&icon_color=0F52BA&hide_border=true&show_icons=false)](https://github.com/prasan23bad042/Xprep)
 
-Developed a personalized AI-based study platform for exam preparation with real-time feedback and performance analytics.
-
-**Features:** - Personalized study plans 
-- Real-time performance tracking 
-- AI-driven recommendations 
-
-[View Project →](https://github.com/prasan23bad042/Xprep)
+**🔹 Personalized AI-based study platform**  
+Real-time feedback and performance analytics for exam preparation.
 
 </td>
 <td width="50%">
 
-### Esevai Online Services Web Platform
-![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-HTML%2C%20CSS%2C%20Bootstrap%2C%20JavaScript-6366F1?style=flat-square)
+### 🌐 Esevai Online Services Platform
+[![](https://github-readme-stats.vercel.app/api/pin/?username=prasan23bad042&repo=esevai_vs&theme=react&bg_color=1F222E&title_color=0F52BA&icon_color=0F52BA&hide_border=true&show_icons=false)](https://github.com/prasan23bad042/esevai_vs)
 
-Built a responsive multi-page tuition management website with role-based access and student progress tracking.
-
-**Features:** - Role-based user access 
-- Student progress tracking 
-- Responsive and interactive UI 
-
-[View Project →](https://github.com/prasan23bad042/esevai_vs)
+**🔹 Responsive tuition management website**  
+Role-based access and student progress tracking system.
 
 </td>
 </tr>
@@ -121,59 +149,112 @@ Built a responsive multi-page tuition management website with role-based access 
 <td width="50%">
 
 ### 🤟 AI Sign Language Translator
-![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-Python%2C%20OpenCV%2C%20CNN%2C%20Flask-6366F1?style=flat-square)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=prasan23bad042&repo=sign_language_translator&theme=react&bg_color=1F222E&title_color=0F52BA&icon_color=0F52BA&hide_border=true&show_icons=false)](https://github.com/prasan23bad042/sign_language_translator)
 
-Developed a system that translates sign language gestures into text and speech using deep learning and real-time video analytics.
-
-**Features:** - Real-time gesture recognition 
-- Converts gestures to text & speech 
-- Data augmentation for higher accuracy 
-
-[View Project →](https://github.com/prasan23bad042/sign_language_translator)
+**🔹 Deep learning gesture recognition**  
+Translates sign language to text and speech in real-time.
 
 </td>
 <td width="50%">
 
+### 🚀 More Projects Coming Soon!
+[![](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasan23bad042?tab=repositories)
+
+**🔹 Constantly building and learning**  
+Check out all my repositories for more projects.
+
 </td>
 </tr>
 </table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasan23bad042&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=0F52BA&text_color=FFFFFF&icon_color=0F52BA&ring_color=0F52BA" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasan23bad042&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0F52BA&text_color=FFFFFF" alt="Top Languages"/>
 </div>
 
----
-## 📈 GitHub Stats  
-
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
-
-  <!-- Left: GitHub Stats -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=prasan23bad042&show_icons=true&theme=tokyonight" alt="Prasanna's GitHub stats"/>
-  </div>
-
-  <!-- Right: Top Languages -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasan23bad042&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </div>
-
-</div>
----
-
-
-## 🌱 Currently Learning 
-
-- Advanced Computer Vision and Deep Learning 
-- Cloud Deployment & DevOps Concepts 
-- React Optimization and State Management 
-- Research on Micro-Doppler and AI in Aerospace 
-
----
-
-## 📫 Connect with Me 
+<br/>
 
 <p align="center">
-  <a href="https://github.com/prasan23bad042"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/prasanna-venkataraman-s-aa4563292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<div align="center">
+<a href="https://github.com/prasan23bad042"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasan23bad042&theme=algolia" width="100%" /> 
+<br/><br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasan23bad042&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasan23bad042&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prasan23bad042&theme=algolia" width="31%" align="center" title="🦉 Productive Hours" />  
+<br/><br/>
+</a>
+<br/>
+<a href="https://github.com/prasan23bad042">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasan23bad042&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=0F52BA&point=ffffff" width="100%"/>
+</a>
+<br/><br/>
+<a href="https://github.com/prasan23bad042">
+<img src="https://github-profile-trophy.vercel.app/?username=prasan23bad042&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest,Issues" width="100%"/>
+</a>
+</div>
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasan23bad042/prasan23bad042/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasan23bad042/prasan23bad042/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/prasan23bad042/prasan23bad042/output/github-snake.svg" />
+</picture>
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Computer Vision and Deep Learning  
+- Cloud Deployment & DevOps Concepts  
+- React Optimization and State Management  
+- Research on Micro-Doppler and AI in Aerospace  
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-venkataraman-s-aa4563292/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasan23bad042)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codolio.com/profile/your-profile)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+### 💡 Today's Random Dev Joke
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+<br/><br/>
+
+<hr>
+
+### ✨ "Building the future, one line of code at a time"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
+
+**⭐ If you find my work interesting, feel free to star my repositories!**
+
+*Made with ❤️ by [Prasanna Venkataraman S](https://github.com/prasan23bad042)*
+
+</div>
