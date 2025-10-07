@@ -141,29 +141,23 @@ Developed a system that translates sign language gestures into text and speech u
 </div>
 
 ---
+## 📈 GitHub Stats  
 
-## 📈 GitHub Stats
-![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasan23bad042&show_icons=true&theme=tokyonight)
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasan23bad042&layout=compact&theme=tokyonight)
+  <!-- Left: GitHub Stats -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=prasan23bad042&show_icons=true&theme=tokyonight" alt="Prasanna's GitHub stats"/>
+  </div>
 
+  <!-- Right: Top Languages -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasan23bad042&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </div>
 
+</div>
 ---
 
-## 🏆 Achievements 
-
-- Participated in **Intenational conclave Hackathon in Hyderabad** - Built multiple AI and Web-based academic projects 
-- Continuously learning and experimenting with **AI, ML, and full-stack technologies**
-
----
-
-## 📜 Certifications 
-
-- **Coursera** – AI for Everyone 
-- **NPTEL** – Soft Skills Development 
-- **Infosys Springboard** – Java Programming 
-
----
 
 ## 🌱 Currently Learning 
 
