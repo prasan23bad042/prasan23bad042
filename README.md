@@ -26,28 +26,70 @@
 
 ## 👨‍💻 Developer Profile Overview
 
-```python
-class PrasannaVenkataramanS:
-    def __init__(self):
-        self.name = "Prasanna Venkataraman S"
-        self.role = "AI/ML Engineer & Full-Stack Developer"
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech in AI & Data Science"
-        self.cgpa = 8.70
-        self.passion = ["AI Systems", "Web Development", "Aerospace Applications"]
-        
-    def current_focus(self):
-        return [
-            "🔬 Computer Vision & Deep Learning",
-            "🌐 Building scalable full-stack applications",
-            "✈️ Micro-Doppler & Aerospace AI Research",
-            "☁️ Cloud Deployment & DevOps"
-        ]
-    
-    def get_daily_routine(self):
-        return "Code 💻 → Build 🚀 → Learn 📚 → Repeat 🔄"
-```
-
+<div style="max-width: 800px; margin: auto; font-family: Arial, sans-serif; line-height: 1.5;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td colspan="2" style="text-align: center; font-size: 24px; font-weight: bold;">👨‍💻 Developer Profile Overview</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; width: 200px;">Name</td>
+      <td>Prasanna Venkataraman S</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold;">Role</td>
+      <td>AI/ML Engineer & Full-Stack Developer</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold;">Location</td>
+      <td>🇮🇳 India</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold;">Education</td>
+      <td>B.Tech in Artificial Intelligence & Data Science</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold;">CGPA</td>
+      <td>8.70</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px; font-weight: bold;">💡 About Me</td>
+    </tr>
+    <tr>
+      <td colspan="2">I’m a passionate developer who loves creating intelligent and scalable systems that bridge <strong>AI</strong>, <strong>web technologies</strong>, and <strong>aerospace applications</strong>. I believe in continuous learning and solving real-world challenges through innovation.</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding-top: 10px; font-weight: bold;">🚀 Current Focus Areas</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        🔬 Computer Vision & Deep Learning <br>
+        🌐 Building Scalable Full-Stack Applications <br>
+        ✈️ Micro-Doppler & Aerospace AI Research <br>
+        ☁️ Cloud Deployment & DevOps
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding-top: 10px;">🔁 Daily Routine</td>
+      <td style="padding-top: 10px;">`Code 💻 → Build 🚀 → Learn 📚 → Repeat 🔄`</td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding-top: 10px;">❤️ Passions</td>
+      <td style="padding-top: 10px;">
+        🤖 AI Systems <br>
+        💻 Web Development <br>
+        🚀 Aerospace Applications
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding-top: 10px;">📫 Let’s Connect</td>
+      <td style="padding-top: 10px;">
+        💼 <a href="https://www.linkedin.com/in/your-profile/" target="_blank">LinkedIn</a> <br>
+        🌐 <a href="https://your-portfolio-link.com" target="_blank">Portfolio Website</a> <br>
+        📧 yourname@email.com
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🎓 Education
@@ -242,10 +284,6 @@ Check out all my repositories for more projects.
 
 <br/><br/>
 
-### 💡 Today's Random Dev Joke
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-<br/><br/>
 
 <hr>
 
