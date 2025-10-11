@@ -37,11 +37,11 @@
     </tr>
     <tr>
       <td style="font-weight: bold;">Role</td>
-      <td>AI/ML Engineer & Full-Stack Developer</td>
+      <td>AI/DS Engineer & Full-Stack Developer</td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Location</td>
-      <td>🇮🇳 India</td>
+      <td>IN India</td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Education</td>
@@ -55,7 +55,7 @@
       <td colspan="2" style="padding-top: 10px; font-weight: bold;">💡 About Me</td>
     </tr>
     <tr>
-      <td colspan="2">I’m a passionate developer who loves creating intelligent and scalable systems that bridge <strong>AI</strong>, <strong>web technologies</strong>, and <strong>aerospace applications</strong>. I believe in continuous learning and solving real-world challenges through innovation.</td>
+      <td colspan="2">I’m a passionate developer who loves creating intelligent and scalable systems that bridge <strong>AI</strong>, <strong>web technologies</strong>. I believe in continuous learning and solving real-world challenges through innovation.</td>
     </tr>
     <tr>
       <td colspan="2" style="padding-top: 10px; font-weight: bold;">🚀 Current Focus Areas</td>
@@ -64,7 +64,6 @@
       <td colspan="2">
         🔬 Computer Vision & Deep Learning <br>
         🌐 Building Scalable Full-Stack Applications <br>
-        ✈️ Micro-Doppler & Aerospace AI Research <br>
         ☁️ Cloud Deployment & DevOps
       </td>
     </tr>
@@ -83,9 +82,8 @@
     <tr>
       <td style="font-weight: bold; padding-top: 10px;">📫 Let’s Connect</td>
       <td style="padding-top: 10px;">
-        💼 <a href="https://www.linkedin.com/in/your-profile/" target="_blank">LinkedIn</a> <br>
-        🌐 <a href="https://your-portfolio-link.com" target="_blank">Portfolio Website</a> <br>
-        📧 yourname@email.com
+        💼 <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/prasanna-venkataraman-s-aa4563292/)" target="_blank">LinkedIn</a> <br>
+        📧 prasannasvkmr@gmail.com
       </td>
     </tr>
   </table>
