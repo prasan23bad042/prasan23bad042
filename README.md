@@ -267,15 +267,6 @@ Check out all my repositories for more projects.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannasvkmr@gmail.com)
 [![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codolio.com/profile/prasan23bad042)
 
-</div>
-
-
-### ✨ "Building the future, one line of code at a time"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
-
-**⭐ If you find my work interesting, feel free to star my repositories!**
-
 *Made with ❤️ by [Prasanna Venkataraman S](https://github.com/prasan23bad042)*
 
 </div>
