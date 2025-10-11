@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 Developer Profile Overview
 
 <div style="max-width: 800px; margin: auto; font-family: Arial, sans-serif; line-height: 1.5;">
@@ -76,19 +74,17 @@
       <td style="padding-top: 10px;">
         🤖 AI Systems <br>
         💻 Web Development <br>
-        🚀 Aerospace Applications
       </td>
     </tr>
     <tr>
       <td style="font-weight: bold; padding-top: 10px;">📫 Let’s Connect</td>
       <td style="padding-top: 10px;">
-        💼 <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/prasanna-venkataraman-s-aa4563292/)" target="_blank">LinkedIn</a> <br>
-        📧 prasannasvkmr@gmail.com
+        💼 <a href="https://www.linkedin.com/in/prasanna-venkataraman-s-aa4563292/" target="_blank">LinkedIn</a> <br>
+        📧 MAIL TO: prasannasvkmr@gmail.com
       </td>
     </tr>
   </table>
 </div>
----
 
 ## 🎓 Education
 
@@ -268,8 +264,8 @@ Check out all my repositories for more projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-venkataraman-s-aa4563292/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasan23bad042)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codolio.com/profile/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannasvkmr@gmail.com)
+[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)][(https://codolio.com/profile/your-profile)](https://codolio.com/profile/prasan23bad042)
 
 </div>
 
