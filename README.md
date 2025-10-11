@@ -265,21 +265,10 @@ Check out all my repositories for more projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-venkataraman-s-aa4563292/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasan23bad042)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannasvkmr@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)][(https://codolio.com/profile/your-profile)](https://codolio.com/profile/prasan23bad042)
+[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codolio.com/profile/prasan23bad042)
 
 </div>
 
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-
-<hr>
 
 ### ✨ "Building the future, one line of code at a time"
 
