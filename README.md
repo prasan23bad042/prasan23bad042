@@ -173,16 +173,7 @@ Real-time feedback and performance analytics for exam preparation.
 </td>
 <td width="50%">
 
-### 🌐 Esevai Online Services Platform
-[![](https://github-readme-stats.vercel.app/api/pin/?username=prasan23bad042&repo=esevai_vs&theme=react&bg_color=1F222E&title_color=0F52BA&icon_color=0F52BA&hide_border=true&show_icons=false)](https://github.com/prasan23bad042/esevai_vs)
 
-**🔹 Responsive tuition management website**  
-Role-based access and student progress tracking system.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### 🤟 AI Sign Language Translator
 [![](https://github-readme-stats.vercel.app/api/pin/?username=prasan23bad042&repo=sign_language_translator&theme=react&bg_color=1F222E&title_color=0F52BA&icon_color=0F52BA&hide_border=true&show_icons=false)](https://github.com/prasan23bad042/sign_language_translator)
@@ -193,11 +184,6 @@ Translates sign language to text and speech in real-time.
 </td>
 <td width="50%">
 
-### 🚀 More Projects Coming Soon!
-[![](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasan23bad042?tab=repositories)
-
-**🔹 Constantly building and learning**  
-Check out all my repositories for more projects.
 
 </td>
 </tr>
